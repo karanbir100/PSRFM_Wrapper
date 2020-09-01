@@ -6,7 +6,7 @@ PSRFM_PARAMETER_START
 # input fine resolution data
   IN_PAIR_FINE_FNAME = _
 # input cluster data (saved in 1 bytes (int8) / pixel)
-  IN_PAIR_CLUSTER_FNAME = _
+  IN_PAIR_CLUSTER_FNAME = NONE
 # input cloud mask data for fine resolution data
   IN_PAIR_FINE_MASK_FNAME = _
 # coarse resolution data list for prediction days
@@ -32,26 +32,30 @@ PSRFM_PARAMETER_START
 # resolution ratio of coarse and fine images
   BLOCK_SIZE = _
 # define data scale factor
-  SCALE_FACTOR = _
+  SCALE_FACTOR = 10000
+# define data scale factor
+  SCALE_FACTOR = 10000
 # define metadata for fine resolution input
-  FINE_IMAGE_FILLV = _
-  FINE_IMAGE_DATA_RANGE = _
-  FINE_IMAGE_UNCERTAINTY = _
+  FINE_IMAGE_FILLV = -9999
+  FINE_IMAGE_DATA_RANGE = 0, 10000
+  FINE_IMAGE_UNCERTAINTY = 40
 # define metadata for coarse resolution input
-  COARSE_IMAGE_FILLV = _
-  COARSE_IMAGE_DATA_RANGE = _, _
-  COARSE_IMAGE_UNCERTAINTY = _
+  COARSE_IMAGE_FILLV = 32767
+  COARSE_IMAGE_DATA_RANGE = 0, 10000
+  COARSE_IMAGE_UNCERTAINTY = 20
 # cluster method (KMEAN|CRATIO) and input data
-  CLUSTER_METHOD = _
-  CLUSTER_DATA = _
+  CLUSTER_METHOD = KMEAN
+  CLUSTER_DATA = fine
 # cluster range
-  CLUSTER_RANGE = _ _
+  CLUSTER_RANGE = 1 10
 # cluster optimization method (CC|CF)
-  CLUSTER_OPTIMAL = _
+  CLUSTER_OPTIMAL = CF
 # residual correction method
-  RC_METHOD = _
+  RC_METHOD = none
 # forward and backward merge method (temporal|uncertainty)
-  MERGE_METHOD = _
+  MERGE_METHOD = temporal
 # option for merging fine image on prediction date if available (YES|NO)
   MERGE_FINE = NO
+  MERGE_THRESHOLD = 500
+  MERGE_EXTENSION = 3
 PSRFM_PARAMETER_END
