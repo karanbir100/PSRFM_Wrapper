@@ -1,0 +1,926 @@
+WARNING:root:wutpog
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/value:compute?prettyPrint=false&alt=json HTTP/1.1" 200 None
+DEBUG:googleapiclient.discovery:URL being requested: POST https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/image:export?alt=json
+DEBUG:urllib3.connectionpool:https://earthengine.googleapis.com:443 "POST /v1alpha/projects/earthengine-legacy/image:export?alt=json HTTP/1.1" 200 None
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image before 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-08-30, reference image after 2019-08-30 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image before 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2019-11-23, reference image after 2019-11-23 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image after 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
