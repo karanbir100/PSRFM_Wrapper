@@ -924,3 +924,103 @@ WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 no
 WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
 WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
 WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:googleapiclient.discovery_cache:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "C:\Users\karan\anaconda3\envs\eePSRFM\lib\site-packages\googleapiclient\discovery_cache\file_cache.py", line 41, in <module>
+    "file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth"
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 0 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 0 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
+WARNING:root:For Col 1 Row 1 on 2014-09-01, reference image before 2014-09-01 not found and hence skipped
